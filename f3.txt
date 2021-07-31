@@ -1,0 +1,6 @@
+hello i am file f3 of path 1
+
+
+
+
+line 6 is here
